@@ -17,8 +17,8 @@
 class Tony {
 private:
    std::string lastName = "Wei";
-   std::string languages[] = {"HTML", "CSS", "JavaScript", "C++", "C#", "Java", "Python", "Assembly"};
-   std::string frameworks[] = {"React", ".NET", "IOS", "Android", "Django", "Unity", "Unreal Engine"};
+   std::string languages[] = {"C++", "C#", "HTML", "CSS", "JavaScript", "Java", "Python", "Assembly"};
+   std::string frameworks[] = {"Unity", "Unreal Engine", "React", ".NET", "IOS", "Android", "Django"};
 
 public:
   🎾void playTennis();
